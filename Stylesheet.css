@@ -1,8 +1,18 @@
-﻿body {
+body {
+       background-color:#A8BF75;
+        color:#000000;
 }
 h1 {
-    background-color:navy;
-    color:white;
+    background-color:#000000;
+    color:#A8BF75;
     text-align:center;
     border-bottom:solid 5px black;
+}
+input
+{
+  -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:3px;
+    min-width:12px;
 }
